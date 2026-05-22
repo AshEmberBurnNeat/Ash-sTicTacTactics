@@ -1,0 +1,6 @@
+{
+  "name": "Ash's Tic Tac Tactics",
+  "description": "An ultimate strategic Tic Tac Toe game with 9 boards, 81 cells, and a smart tactical AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
